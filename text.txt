@@ -1,0 +1,6 @@
+# Initializa        # Clone
+git init            git clone ssh_url
+
+## git add
+## git commit
+## git push
